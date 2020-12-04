@@ -1,1 +1,2 @@
-Hello World Text File
+This is just a text file.
+A quick brown fox jumps over a lazy dog.
